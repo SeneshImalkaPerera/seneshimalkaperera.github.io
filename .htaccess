@@ -1,2 +1,3 @@
 RewriteEngine On
 RewriteRule ^profile$ profile.html [L]
+
