@@ -1,0 +1,5 @@
+﻿{
+  "Description": "Domain ownership verification file for Microsoft 365 - place in the website root",
+  "Domain": "imalkaperera.tech",
+  "Id": "0c1057c1-f72e-4171-a44e-7ff540f96776"
+}
